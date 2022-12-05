@@ -19,3 +19,7 @@ button {
   display: grid;
   gap: 3px;
 }
+
+button {
+  padding: 0.5rem;
+}
